@@ -1,0 +1,191 @@
+[{
+  "_id": {
+    "$oid": "69a36a1e7f29ab0308a6afec"
+  },
+  "category": "features",
+  "question": "What kind of digital presence does Qobo provide?",
+  "answer": "Qobo provides a complete digital ecosystem:\n\n• Professional websites\n• React Native mobile applications\n• Scalable web apps\n• AI-powered automation systems\n• Platforms designed for business growth",
+  "keywords": [
+    "digital",
+    "presence",
+    "website",
+    "mobile",
+    "app"
+  ],
+  "createdAt": {
+    "$date": "2026-02-28T22:20:14.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a36a1e7f29ab0308a6afed"
+  },
+  "category": "features",
+  "question": "Does Qobo support WhatsApp native management?",
+  "answer": "Yes, Qobo operates directly through WhatsApp:\n\n• Website creation happens in chat\n• Order management inside WhatsApp\n• Delivery tracking via chat\n• Automated confirmations\n• No external dashboards required",
+  "keywords": [
+    "whatsapp",
+    "management",
+    "orders"
+  ],
+  "createdAt": {
+    "$date": "2026-02-28T22:20:14.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a36a1e7f29ab0308a6afee"
+  },
+  "category": "features",
+  "question": "Does Qobo support instant deployment?",
+  "answer": "Yes, Qobo ensures fast deployment:\n\n• Real-time hosting included\n• Shareable live URLs generated instantly\n• Go from concept to live website in minutes\n• Secure infrastructure\n• Fully managed backend",
+  "keywords": [
+    "deployment",
+    "hosting",
+    "live",
+    "url"
+  ],
+  "createdAt": {
+    "$date": "2026-02-28T22:20:14.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a36a1e7f29ab0308a6afef"
+  },
+  "category": "features",
+  "question": "Does Qobo support multiple languages?",
+  "answer": "Yes, Qobo supports multilingual businesses:\n\n• English language support\n• Indian regional languages\n• Better local customer engagement\n• Wider geographic reach\n• Improved brand accessibility",
+  "keywords": [
+    "language",
+    "local",
+    "indian"
+  ],
+  "createdAt": {
+    "$date": "2026-02-28T22:20:14.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a36a1e7f29ab0308a6aff0"
+  },
+  "category": "features",
+  "question": "What industries does Qobo support?",
+  "answer": "Qobo supports multiple industries:\n\n• Ecommerce businesses\n• Portfolio websites\n• Mobile applications\n• AI automation systems\n• AI agents and business tools",
+  "keywords": [
+    "industries",
+    "ecommerce",
+    "portfolio",
+    "mobile"
+  ],
+  "createdAt": {
+    "$date": "2026-02-28T22:20:14.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a36a1e7f29ab0308a6aff1"
+  },
+  "category": "benefits",
+  "question": "What are the benefits of building with Qobo?",
+  "answer": "Building with Qobo offers major advantages:\n\n• Visibility on Google Maps & Search\n• Payments go directly to your bank\n• WhatsApp automated order receipts\n• No coding required\n• Rapid business digitization",
+  "keywords": [
+    "benefits",
+    "google",
+    "maps",
+    "payment"
+  ],
+  "createdAt": {
+    "$date": "2026-02-28T22:20:14.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a36a1e7f29ab0308a6aff2"
+  },
+  "category": "faq",
+  "question": "How do I start building my website?",
+  "answer": "Getting started is simple:\n\n• Message Qobo on WhatsApp at +91 99016 31188\n• Describe your business idea\n• AI guides you step-by-step\n• No signup required\n• No credit card needed",
+  "keywords": [
+    "start",
+    "whatsapp",
+    "build"
+  ],
+  "createdAt": {
+    "$date": "2026-02-28T22:20:14.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a36a1e7f29ab0308a6aff3"
+  },
+  "category": "faq",
+  "question": "Can I integrate payment gateways?",
+  "answer": "Yes, Qobo supports secure payment integration:\n\n• UPI and card payments\n• Ecommerce checkout systems\n• Direct bank transfers\n• Secure encrypted transactions\n• Full payment tracking",
+  "keywords": [
+    "payment",
+    "gateway"
+  ],
+  "createdAt": {
+    "$date": "2026-02-28T22:20:14.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a36a1e7f29ab0308a6aff4"
+  },
+  "category": "success_stories",
+  "question": "Tell me about Sonia's Fashion Store success story.",
+  "answer": "Sonia Mehta’s success with Qobo:\n\n• Converted Instagram shop into full ecommerce store\n• Website launched in minutes\n• Payments automated\n• Orders handled via WhatsApp\n• Sales increased by 40%",
+  "keywords": [
+    "sonia",
+    "fashion",
+    "success"
+  ],
+  "createdAt": {
+    "$date": "2026-02-28T22:20:14.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a36a1e7f29ab0308a6aff5"
+  },
+  "category": "contact",
+  "question": "How can I contact Qobo?",
+  "answer": "You can contact Qobo through:\n\n• Email: hello@qobo.dev\n• Phone: +91 9901141616\n• WhatsApp support available\n• Direct chat-based assistance\n• Quick response support system",
+  "keywords": [
+    "contact",
+    "email",
+    "phone"
+  ],
+  "createdAt": {
+    "$date": "2026-02-28T22:20:14.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69a36a1e7f29ab0308a6aff6"
+  },
+  "category": "about",
+  "question": "What is Qobo's mission?",
+  "answer": "Qobo’s mission is simple:\n\n• Empower entrepreneurs digitally\n• Remove technical barriers\n• Simplify website creation\n• Operate entirely via WhatsApp\n• Make online growth accessible to everyone",
+  "keywords": [
+    "mission",
+    "about",
+    "empower"
+  ],
+  "createdAt": {
+    "$date": "2026-02-28T22:20:14.276Z"
+  },
+  "__v": 0
+}]
